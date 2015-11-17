@@ -1,7 +1,7 @@
 name: BeyondBeta
 favicon: null
 layout_spectrum: 0.75644
-typography_spectrum: 0.24009923730045557
+typography_spectrum: 0.26013
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#d8d7dc'
     - '#f9b142'
   brandStrength: 0.375
-  lightness: 0.8327578154858202
-  saturation: 0.49884617724455893
-  rhythmicContrast: 0.38542974344454706
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
