@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 21 May 2015 By Luke Partridge  BETA AND BEYOND SINGAPORE EVENTS GOOGLE PLACEAR GRABTAXI  Recently we were deligh
-datePublished: '2015-11-17T15:07:10.052Z'
-dateModified: '2015-11-17T15:03:48.990Z'
+datePublished: '2015-11-17T15:07:12.873Z'
+dateModified: '2015-11-17T15:07:10.052Z'
 author: []
 title: 'Innovation Adoption: Beta & Beyond in Singapore'
 sourcePath: _posts/2015-11-17-21-may-2015-innovation-adoption-beta-and-beyond-in-singapore.md
