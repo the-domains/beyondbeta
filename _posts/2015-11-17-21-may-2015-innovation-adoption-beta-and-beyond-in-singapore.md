@@ -4,13 +4,13 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.mitchellake.com/news/2015/5/21/innovation-adoption-beta-and-beyond-in-singapore'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: '21 May 2015 Innovation Adoption: Beta & Beyond in Singapore By Luke Partridge  BETA AND BEYOND SINGAPORE EVENTS GOOGLE PLACEAR GRABTAXI  Recently we were deligh'
-datePublished: '2015-11-17T14:52:28.423Z'
-dateModified: '2015-11-17T14:52:20.560Z'
+description: 21 May 2015 By Luke Partridge  BETA AND BEYOND SINGAPORE EVENTS GOOGLE PLACEAR GRABTAXI  Recently we were deligh
+datePublished: '2015-11-17T15:02:43.811Z'
+dateModified: '2015-11-17T15:02:34.720Z'
 author: []
-title: ''
+title: 'Innovation Adoption: Beta & Beyond in Singapore'
 sourcePath: _posts/2015-11-17-21-may-2015-innovation-adoption-beta-and-beyond-in-singapore.md
 published: true
 authors: []
