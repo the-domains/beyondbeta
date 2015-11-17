@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.mitchellake.com/news/2014/12/3/event-review-slash-slash-beta-and-beyond-the-internet-of-things'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: '03 December 2014 EVENT REVIEW // Beta & Beyond: The Internet of Things By Madeleine Gasparinatos NINJA BLOCKS PLACEAR GOOGLE'
-datePublished: '2015-11-17T14:43:14.776Z'
-dateModified: '2015-11-17T14:43:09.641Z'
+datePublished: '2015-11-17T15:05:46.187Z'
+dateModified: '2015-11-17T15:04:52.884Z'
 author: []
 title: 'Beta & Beyond: The Internet of Things '
 sourcePath: _posts/2015-11-17-03-december-2014-event-review-beta-and-beyond-the-internet.md
@@ -19,6 +18,7 @@ publisher:
   domain: www.mitchellake.com
   url: null
   favicon: null
+url: beta-and-beyond-the-internet-of-things/index.html
 _context: 'http://schema.org'
 _type: Article
 
