@@ -1,0 +1,23 @@
+name: BeyondBeta
+favicon: null
+layout_spectrum: 0.7764667987357825
+typography_spectrum: 0.24009923730045557
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2310429010540247
+  lightness: 0.8327578154858202
+  saturation: 0.49884617724455893
+  rhythmicContrast: 0.38542974344454706
+purpose: []
