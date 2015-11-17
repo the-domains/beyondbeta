@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '03 December 2014 EVENT REVIEW // Beta & Beyond: The Internet of Things By Madeleine Gasparinatos NINJA BLOCKS PLACEAR GOOGLE'
-datePublished: '2015-11-17T14:41:19.202Z'
-dateModified: '2015-11-17T14:41:07.894Z'
+datePublished: '2015-11-17T14:42:20.999Z'
+dateModified: '2015-11-17T14:41:23.040Z'
 author: []
 title: 'Beta & Beyond: The Internet of Things '
 sourcePath: _posts/2015-11-17-03-december-2014-event-review-beta-and-beyond-the-internet.md
